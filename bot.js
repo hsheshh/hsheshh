@@ -184,4 +184,4 @@ client.on("message", message => { //clear
 
 
 
-client.login("NjgyMDUyOTg5ODI1MDU2OTUy.Xli_Jw.8yzITafm8Rhd2lfWCwvcuNfbNgk");
+client.login('NjgyMDYyMzM5MjY4MjgwMzQ2.Xli_mw.NRklIkDzRvXiY7onM5617CePOy0');
